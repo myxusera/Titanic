@@ -1,4 +1,4 @@
-# Titanic EDA
+# Titanic EDA 
 
 This is a kaggle kernel that I wrote for Titanic dataset.
 
@@ -13,7 +13,7 @@ Content:
  - Exploratory Data Visualization
  - Making Conclusions
 
-I might add in the future some ML models to predict survivability.
+I might add in the future ML models to predict survivability (in progress)
 
 Libraries used:
 - pandas
